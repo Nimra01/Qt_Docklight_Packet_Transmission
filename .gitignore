@@ -1,0 +1,6 @@
+*.user
+*.o
+*.obj
+*.csv
+*.log
+build-*/
