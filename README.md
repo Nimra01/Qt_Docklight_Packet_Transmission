@@ -74,8 +74,8 @@ Configure send/receive packets
 3. Build Qt Application
 Clone your repository:
 ```
-git clone <your_repo_url>
-cd <your_project_folder>
+git clone https://github.com/Nimra01/Qt_Docklight_Packet_Transmission.git
+cd PacketSender
 ```
 Open the project in Qt Creator:
 
